@@ -21,7 +21,9 @@ const Testimonials = () => {
       <div data-aos="fade-up">
         <span className="section__subtitle">"You won't believe what my 'clients' (imaginary buddies, honestly) tell me..."</span>   
       </div>
-
+            */hfjifhuif*/
+            
+            
       <div data-aos="fade-up" data-aos-duration="1000">
         <Swiper className="testimonial__container"
         
