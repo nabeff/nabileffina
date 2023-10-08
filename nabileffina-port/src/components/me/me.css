@@ -1,0 +1,44 @@
+
+.welcome__container  {
+    max-width: 600;
+    padding: 5rem;
+    height: 50vh;
+    
+    
+}
+.me__container{    
+    padding:6rem 0 2rem;
+    height: 50vh;
+    display: inline-block;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.section__titles{
+    text-align: center;
+}
+
+
+
+@media screen and (max-width: 776px){
+    .me__container{
+        margin-left: 1.5rem;
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .me__container{
+        margin-left: 1.2rem;
+        font-size: 1.4rem;
+    }
+}
+@media screen and (max-width: 350px){
+    .me__container{
+        margin-left: 1.1rem;
+        font-size: 1rem;
+    }
+}
