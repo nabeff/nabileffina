@@ -10,28 +10,29 @@ const About = () => {
     
     <section  className="about section" id="about">
       
-      <div  data-aos="fade-up" data-aos-offset="200">
+     
         <h2  className="section__title">About Me</h2>
-     </div>
+     
       
-        <span className="section__subtitle" data-aos="fade-up">My introduction</span>
+        <span className="section__subtitle" >My introduction</span>
       
 
       <div className="about__container container grid">
 
       
-        <img src={AboutImg} alt="" className='about__img' data-aos="fade-right" data-aos-duration="1000"/>
+        <img src={AboutImg} alt="" className='about__img'
+         />
       
 
         <div className="about__data"> 
          
-       <div data-aos="fade-left"  >
+     
           <Info />
-        </div>
+      
           
 
                  
-              <div className="about__data container" data-aos="fade-right">
+              <div className="about__data container" >
             
               
                 <p className="about__description" >Frontend Developer, i create web pages 

@@ -31,7 +31,7 @@ const Works = () => {
 
   return (
     
-    <div data-aos="fade-up">
+   
     <div>
     <div className="work__filters">
         {projectsNav.map((item,index) => {
@@ -54,7 +54,7 @@ const Works = () => {
         })}
     </div>
 </div>
-</div>
+
    
   )
 }

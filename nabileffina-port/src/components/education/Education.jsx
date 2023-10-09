@@ -14,13 +14,13 @@ const Education = () => {
     
     <section className="qualification section">
 
-       <div data-aos="fade-up">
+  
         <h2 className="section__title">Qualification</h2>
-        </div>
+     
 
-        <div data-aos="fade-up">
+      
         <span className="section__subtitle">My personnel journey</span>
-        </div>
+      
         
         
         <div className="qualification__container container">

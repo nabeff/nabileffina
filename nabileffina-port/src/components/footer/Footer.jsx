@@ -27,9 +27,9 @@ const Footer = () => {
                  </a>
 
                 <a href="https://www.upwork.com/nx/jobs/search/?q=html%20css&sort=recency&contractor_tier=1" className="footer__social-link" target="_blank">
-                    <i class="uil uil-dribbble"></i>
+                    <i class="bx bxl-upwork"></i>
                 </a>
-
+                
                 <a href="https://github.com/nabeff" className="footer__social-link" target="_blank">
                     <i class="uil uil-github-alt"></i>
                 </a>

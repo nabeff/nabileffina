@@ -14,17 +14,17 @@ import { Pagination } from 'swiper/modules';
 const Testimonials = () => {
   return (
     <section className="testimonial container section" id="testimonial">
-     <div data-aos="fade-up">
+     
       <h2 className="section__title">Testimonials</h2>
-      </div>
       
-      <div data-aos="fade-up">
+      
+    
         <span className="section__subtitle">"You won't believe what my 'clients' (imaginary buddies, honestly) tell me..."</span>   
-      </div>
-            */hfjifhuif*/
+   
+           
             
             
-      <div data-aos="fade-up" data-aos-duration="1000">
+      
         <Swiper className="testimonial__container"
         
         loop={true}
@@ -64,7 +64,7 @@ const Testimonials = () => {
             )
           })}
         </Swiper>
-        </div>
+      
         
     </section>
   )

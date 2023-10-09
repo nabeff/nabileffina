@@ -14,13 +14,13 @@ const Services = () => {
     
     <section className="services section" id="services">
         
-        <div data-aos="fade-up">
+      
          <h2 className="section__title">Services</h2>
-         </div>
+      
         
-         <div data-aos="fade-up">
+       
         <span className="section__subtitle">What I offer</span>
-        </div>
+   
 
       
        

@@ -24,19 +24,18 @@ const Contact = () => {
 
     <section className="contact section" id="contact">
 
-              <div data-aos="fade-up">
+             
             <h2 className="section__title">Get in touch</h2>
-              </div>
+             
 
-              <div data-aos="fade-up">  
+             
             <span className="section__subtitle">Contact me</span>
-              </div>
-
+        
         <div className="contact__container container grid" >
 
             <div className="contact__content" >
             
-                <h3 className="contact__title" data-aos="fade-right">Talk to me</h3>
+                <h3 className="contact__title" >Talk to me</h3>
             
 
 
@@ -92,9 +91,9 @@ const Contact = () => {
 
             <div className="contact__content">
 
-            <div data-aos="fade-left">
+        
                 <h3 className="contact__title">Write me your project</h3>
-            </div>
+         
 
            
                 <form  ref={form} onSubmit={sendEmail} className="contact__form">
